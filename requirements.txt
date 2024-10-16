@@ -1,0 +1,5 @@
+Pillow
+numpy
+transformers
+diffusers
+omegaconf

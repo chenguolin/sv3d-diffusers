@@ -1,0 +1,1 @@
+from .pipeline_stable_video_3d_diffusion import StableVideo3DDiffusionPipeline
