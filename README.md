@@ -13,6 +13,13 @@ This repo provides scripts about:
 Converted SV3D-p checkpoints have been uploaded to HuggingFace🤗 [chenguolin/sv3d-diffusers](https://huggingface.co/chenguolin/sv3d-diffusers).
 
 
+## 🔥 See Also
+
+You may also be interested in our works:
+- [**[ICLR 2025] DiffSplat**](https://github.com/chenguolin/DiffSplat): generate 3D objects in 3DGS directly by fine-tuning a pretrained text-to-image models.
+- [**[NeurIPS 2024] HumanSplat**](https://github.com/humansplat/humansplat): SV3D is fine-tuned on human datasets for single-view human reconstruction.
+
+
 ## 🚀 Usage
 ```bash
 git clone https://github.com/chenguolin/sv3d-diffusers.git
